@@ -40,15 +40,16 @@
 ---
 
 <h2>🛠 Tools & Technologies</h2>
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="assets/ML.jpg" width="40" title="Machine Learning" style="margin-right: 10px;">
-  <p style="margin: 0;">Machine Learning.</p>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="assets/data science.jpg" width="40" title="Data Science" style="margin-right: 10px;">
-  <p style="margin: 0;">Data Science.</p>
-</div>
+<table>
+  <tr>
+    <td><img src="assets/ML.jpg" width="40" title="Machine Learning"></td>
+    <td>Machine Learning</td>
+  </tr>
+  <tr>
+    <td><img src="assets/data science.jpg" width="40" title="Data Science"></td>
+    <td>Data Science</td>
+  </tr>
+</table>
 
 ---
 
