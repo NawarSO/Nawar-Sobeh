@@ -41,9 +41,9 @@
 
 <h2>🛠 Tools & Technologies</h2>
 <p align="left">
-  <img src="assets/ML.jpg" width="40" title = 'Machine Learning' />
+  <img src="assets/ML.jpg" width="40" title = 'Machine Learning' />  <p> Machine Learning. </p>
   <br>
-  <img src="assets/data science.jpg" width="40" title = 'Data Science' />
+  <img src="assets/data science.jpg" width="40" title = 'Data Science' /> <p> Data Science. </p>
   <!-- Add more icons here -->
 </p>
 
