@@ -40,12 +40,15 @@
 ---
 
 <h2>🛠 Tools & Technologies</h2>
-<p align="left">
-  <img src="assets/ML.jpg" width="40" title = 'Machine Learning' style = "float : left ; margin-right: 10px; " />  <p> Machine Learning. </p>
-  <br>
-  <img src="assets/data science.jpg" width="40" title = 'Data Science' style = "float : left ; margin-right: 10px; " /> <p> Data Science. </p>
-  <!-- Add more icons here -->
-</p>
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="assets/ML.jpg" width="40" title="Machine Learning" style="margin-right: 10px;">
+  <p style="margin: 0;">Machine Learning.</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="assets/data science.jpg" width="40" title="Data Science" style="margin-right: 10px;">
+  <p style="margin: 0;">Data Science.</p>
+</div>
 
 ---
 
